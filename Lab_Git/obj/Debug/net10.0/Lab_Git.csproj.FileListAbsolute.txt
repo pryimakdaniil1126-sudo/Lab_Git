@@ -1,0 +1,16 @@
+D:\Lab_Git\Lab_Git\bin\Debug\net10.0\Lab_Git.exe
+D:\Lab_Git\Lab_Git\bin\Debug\net10.0\Lab_Git.deps.json
+D:\Lab_Git\Lab_Git\bin\Debug\net10.0\Lab_Git.runtimeconfig.json
+D:\Lab_Git\Lab_Git\bin\Debug\net10.0\Lab_Git.dll
+D:\Lab_Git\Lab_Git\bin\Debug\net10.0\Lab_Git.pdb
+D:\Lab_Git\Lab_Git\obj\Debug\net10.0\Lab_Git.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab_Git\Lab_Git\obj\Debug\net10.0\Lab_Git.AssemblyInfoInputs.cache
+D:\Lab_Git\Lab_Git\obj\Debug\net10.0\Lab_Git.AssemblyInfo.cs
+D:\Lab_Git\Lab_Git\obj\Debug\net10.0\Lab_Git.csproj.CoreCompileInputs.cache
+D:\Lab_Git\Lab_Git\obj\Debug\net10.0\Lab_Git.sourcelink.json
+D:\Lab_Git\Lab_Git\obj\Debug\net10.0\Lab_Git.dll
+D:\Lab_Git\Lab_Git\obj\Debug\net10.0\refint\Lab_Git.dll
+D:\Lab_Git\Lab_Git\obj\Debug\net10.0\Lab_Git.pdb
+D:\Lab_Git\Lab_Git\obj\Debug\net10.0\Lab_Git.genruntimeconfig.cache
+D:\Lab_Git\Lab_Git\obj\Debug\net10.0\ref\Lab_Git.dll
+D:\Lab_Git\Lab_Git\obj\Debug\net10.0\Lab_Git.csproj.Up2Date
